@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f5a9e7-ccf0-4560-a019-9b23106d45d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +18,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/mihrac5545samsun/gitpractice3.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1bBnMq05UGTlIo7WXqs7Wjz5FnD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,6 +63,19 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state width="1485" height="197" key="GridCell.Tab.0.bottom" timestamp="1588120466941">
       <screen x="0" y="0" width="1536" height="824" />
@@ -74,6 +93,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1485" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588120466941" />
+    <state x="364" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1589824878520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="364" y="199" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.26.1680.1010@0.0.1536.824" timestamp="1589824878520" />
     <state x="1920" y="61" key="new project wizard" timestamp="1588962499656">
       <screen x="1920" y="26" width="1680" height="1010" />
     </state>
